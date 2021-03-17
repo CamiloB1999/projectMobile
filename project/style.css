@@ -70,7 +70,7 @@ header img
     line-height: 1.8rem;
 }
 
-.header--title-container .header--button
+.header--button a
 {
     position: relative;
     padding: 15px;
@@ -84,10 +84,13 @@ header img
     font-weight: bold;
     font-size: 1.4rem;
     line-height: 1.823rem;
-    top: calc(30%);
+    top: 5px;
 }
 
-.header--title-container .header--button span
+
+
+
+.header--button a span
 {
     display: inline-block;
     width: 13px;
